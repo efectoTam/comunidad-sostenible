@@ -1,0 +1,442 @@
+/*Inicio header*/
+
+.logo{
+	width: 120px;
+	height: 110px;
+}
+
+header nav{
+	overflow: hidden;
+	width: 800px;
+	margin: 0px auto;
+	padding: 10px 0px;
+}
+
+header nav ul{
+	overflow: hidden;
+	list-style: none;
+	margin-right: 0px;
+	padding-left: 0px;
+}
+
+header nav ul li{
+	float:left;
+	margin: 0px 0px;
+}
+
+header nav ul li a{
+	padding-right: 55px;
+	display: block;
+	color: #908989;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+
+/*Fin header*/
+
+/*Inicio section1*/
+
+.fila2{
+	background-image: url(../img/semilla.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 350px;
+}
+
+/*Fin section1*/
+
+/*Inicio section2*/
+
+.fila3{
+	background-color: #DDDADA;
+	height: 150px;
+	padding: 30px 70px 0px 70px;
+}
+
+.lorem{
+	text-align: center;
+	color: #908989;
+}
+
+/*Fin section2*/
+
+/*Inicio section3*/
+
+.fila4{
+	height: 380px;
+	padding-top: 50px;
+}
+
+.misvis{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.misionvision{
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.misionvisiontexto{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.mision,.vision{
+	margin-left: 145px;
+}
+
+/*Fin section3*/
+
+/*Inicio section4*/
+
+.fila5{
+	height: 380px;
+}
+
+.discurso{
+	background-image: url(../img/metodo.JPG);
+	background-size: cover;
+	height: 380px;
+}
+
+.metodologia{
+	background-image: url(../img/fondo.jpg);
+	background-size: 1000px;
+	background-position: center;
+	width: cover;
+	height: 380px;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.metodologiatitulo{
+	text-align: center;
+	color: #ffffff;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.metodologiatexto{
+	text-align: center;
+	color: #ffffff;
+}
+
+.metodologiaicono{
+	padding-top: 80px;
+	padding-left: 190px;
+}
+
+/*Fin section4*/
+
+/*Inicio section5*/
+
+.fila6{
+	padding-top: 50px;
+}
+
+.servicios{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.serviciosuno,.serviciosdos{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+}
+
+.serviciosdos{
+	padding-bottom: 60px;
+}
+
+.serviciosuno1{
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+.p1servicios{
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	color: #34963B;
+}
+
+.p2servicios{
+	text-align: center;
+}
+
+.imgservicios{
+	margin-left: 30px;
+}
+
+/*Fin section5*/
+
+/*Inicio section6*/
+
+.fila9,.fila10,.fila11{
+	background-color: #34963B;
+}
+
+.fila10,.fila11{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.niñas{
+	background-image: url(../img/fotos/img-0352.JPG);
+	background-size: cover;
+	background-position: center;
+	width: 450px;
+	height: 250px;
+}
+
+.proyectotitulo{
+	font-size: 22px;
+	font-weight: bold; 
+	text-align: center;
+	color: #ffffff;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.proyectonombre{
+	font-size: 25px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.proyectodistrito{
+	font-size: 22px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.proyectolorem{
+	color: #ffffff;
+}
+
+.fila11{
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+
+.tren{
+	background-image: url(../img/fotos/img-9246.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 450px;
+	height: 250px;
+}
+
+/*Fin section6*/
+
+/*Inicio section7*/
+
+.equipotitulo{
+	font-size: 22px;
+	font-weight: bold; 
+	text-align: center;
+	color: #34963B;
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.equipoimg{
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	margin-left: 40px;
+}
+
+.fila13{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.persona{
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+.equipotitulo1,.equipotitulo2,.equipolorem{
+	text-align: center;
+}
+
+.equipotitulo1{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.equipotitulo2{
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.equipolorem{
+	margin-top: 0px;
+}
+
+.redessociales{
+	width: 35px;
+	height: 35px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.totalredes1{
+	margin-left: 185px;
+}
+
+.totalredes2{
+	margin-left: 90px;
+}
+
+.fila14{
+	padding-bottom: 60px;
+}
+
+/*Fin section7*/
+
+/*Inicio section8*/
+
+.fila1516{
+	background-image: url(../img/fondo2.jpg);
+	background-size: 1250px;
+	width: cover;
+	height: 500px;
+}
+
+.blog{
+	font-size: 22px;
+	font-weight: bold; 
+	text-align: center;
+	color: #000000;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.blogimg{
+	width: 270px;
+	height: 180px;
+}
+
+.blogtitulo{
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.blogfecha{
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.bloglorem{
+	margin-top: 0px;
+	padding-right: 15px;
+}
+
+.fila16{
+	padding-left: 110px;
+	padding-right: 100px;
+}
+
+.enverde{
+	color: #34963B;
+}
+
+.sliderizq{
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	margin-top: 230px;
+	margin-left: 40px;
+}
+
+.sliderder{
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	margin-left: 1050px;
+	margin-top: 230px;
+}
+
+/*Fin section8*/
+
+/*Inicio footer*/
+
+.redesfooterp{
+	display: inline-block;
+	color: #AAAAAA;
+	font-size: 23px;
+	margin-left: 10px;
+}
+
+.redesfooterimg{
+	width: 50px;
+	height: 50px;
+	float: right;
+	margin-top: 15px;
+}
+
+.email{
+	width: 55px;
+	height: 40px;
+}
+
+.redesfooter{
+	border: 1px solid #AAAAAA;
+	height: 250px;
+}
+
+.fila17{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 50px;
+	background-color: #535151;
+	height: 350px;
+}
+
+.fila18{
+	height: 170px;
+	padding-top: 60px;
+	background-color: #DDDADA;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.pfinal1,.pfinal2{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.pfinal3,.pfinal4,.pfinal5{
+	text-align: right;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.pfinal1,.pfinal5{
+	color: #908989;
+}
+
+.pfinal2{
+	color: #FFA454;
+	font-weight: bold;
+}
+
+.pfinal3,.pfinal4{
+	font-weight: bold;
+}
+
+/*Fin footer*/
